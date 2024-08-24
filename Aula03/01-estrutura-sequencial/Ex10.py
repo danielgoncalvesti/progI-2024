@@ -16,9 +16,9 @@ num1 = int(input("Digite o primeiro número: "))
 num2 = int(input("Digite o segundo número: "))
 num3 = int(input("Digite o terceiro número: "))
 
-# todos_iguais =
-# todos_diferentes =
-# algum_maior_que_50 =
+todos_iguais = (num1 == num2) and (num2 == num3) and (num1 == num3)
+todos_diferentes =
+algum_maior_que_50 =
 
 # Exibe os resultados
 print(f"Todos os números são iguais? {todos_iguais}")

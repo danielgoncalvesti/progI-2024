@@ -3,7 +3,7 @@ Exercício 01 – Escreva um programa que utilize a função print() para exibir
 Defina qualquer valor para a variável nome e idade.
 O programa deve exibir: 'Ana tem 25 anos de idade'.
 """
-
+  
 nome = "Ana"
 idade = 25
 
