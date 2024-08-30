@@ -1,6 +1,6 @@
 """
 Exercício 02 – Crie um programa que exibe a soma de dois números inteiros.
-Saída esperada: 'A soma de 10 e 25 é 35.'
+Saída esperada: 'A soma de 20 e 25 é 45.'
 """
 
 num1 = 10
