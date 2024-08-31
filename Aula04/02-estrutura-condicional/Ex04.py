@@ -12,6 +12,6 @@ Saída:
 # Solicitando número ao usuário
 numero = int(input("Digite um número inteiro: "))
 
-# Verificando e exibindo o resultado
+
 
 
