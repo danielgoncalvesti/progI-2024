@@ -1,7 +1,6 @@
 import unittest
 from Ex01 import eh_par
 
-# Testes unitários
 class TestEhPar(unittest.TestCase):
     def test_numero_par(self):
         self.assertTrue(eh_par(4), "Erro: 4 deveria ser considerado um número par.")

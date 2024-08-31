@@ -1,5 +1,4 @@
 import unittest
-
 from Ex05 import verificar_status_aluno
 class TestVerificarStatusAluno(unittest.TestCase):
     def test_reprovado(self):
