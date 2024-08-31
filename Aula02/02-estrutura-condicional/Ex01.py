@@ -9,4 +9,5 @@ Digite um número inteiro: 5
 Saída:
 5 é um número ímpar.
 """
-
+def eh_par(numero):
+    return numero % 2 == 0

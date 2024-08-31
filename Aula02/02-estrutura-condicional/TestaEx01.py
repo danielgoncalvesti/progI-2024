@@ -1,10 +1,5 @@
 import unittest
-
 from Ex01 import eh_par
-
-# Função a ser testada
-def eh_par(numero):
-    return numero % 2 == 0
 
 # Testes unitários
 class TestEhPar(unittest.TestCase):
