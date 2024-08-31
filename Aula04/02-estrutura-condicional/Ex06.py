@@ -20,3 +20,9 @@ valor_total = float(input("Digite o valor total das suas compras (em R$): "))
 if valor_total >= 150.00:
     valor_com_desconto, desconto = calcular_desconto(valor_total)
     # Termine de implementar o código
+
+
+print(f"Valor total: R$ {valor_total:.2f}")
+print(f"Valor com desconto: R$ {valor_com_desconto:.2f}")
+print(f"Desconto: R$ {desconto:.2f}")
+
