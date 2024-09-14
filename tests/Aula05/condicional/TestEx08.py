@@ -1,6 +1,6 @@
 import unittest
 
-from Aula05.Ex08 import determinar_dia_da_semana
+from Aula05.condicional.Ex08 import determinar_dia_da_semana
 
 class TestDeterminarDiaDaSemana(unittest.TestCase):
 
