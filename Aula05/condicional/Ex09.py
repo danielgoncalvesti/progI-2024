@@ -16,7 +16,7 @@ Digite sua idade: 15
 Saída:
 Não elegível para votar.
 """
-def verificar_elegibilidade_voto(idade, cidade_brasileiro):
+def verificar_elegibilidade_voto(idade, cidadao_brasileiro):
     if idade >= 18 and cidadao_brasileiro.upper() == "S":
         return "Elegível para votar."
     else:
