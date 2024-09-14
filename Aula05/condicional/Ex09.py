@@ -17,10 +17,7 @@ Saída:
 Não elegível para votar.
 """
 def verificar_elegibilidade_voto(idade, cidadao_brasileiro):
-    if idade >= 18 and cidadao_brasileiro.upper() == "S":
-        return "Elegível para votar."
-    else:
-        return "Não elegível para votar."
+    pass
 
 def main():
     idade = int(input("Digite sua idade: "))
