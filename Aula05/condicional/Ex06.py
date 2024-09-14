@@ -12,7 +12,8 @@ Valor com desconto: R$ 180.00
 Desconto: R$ 20.00
 """
 def calcular_desconto(valor_total):
-    return valor_com_desconto, desconto
+    # implemente a função (remover o pass)
+    pass
 
 def main():
     valor_total = float(input("Digite o valor total das suas compras (em R$): "))

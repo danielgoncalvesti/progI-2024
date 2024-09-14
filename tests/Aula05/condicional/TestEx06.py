@@ -1,5 +1,5 @@
 import unittest
-from Aula05.Ex06 import calcular_desconto
+from Aula05.condicional.Ex06 import calcular_desconto
 
 class TestCalcularDesconto(unittest.TestCase):
     def test_valor_com_desconto(self):
