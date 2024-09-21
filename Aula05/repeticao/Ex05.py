@@ -10,7 +10,5 @@ Digite um número positivo (ou 0 para sair): 1
 Digite um número positivo (ou 0 para sair): 0
 
 Saída:
-A média dos números positivos é: 10.0
-
-
+A média dos números positivos é: 3.333333
 """
