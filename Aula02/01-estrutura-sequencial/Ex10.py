@@ -13,3 +13,10 @@ Todos os números são diferentes? True
 Algum número é maior que 50? True
 
 """
+Num1 =int(input("Digite um numero: "))
+Num2 = int(input("Digite um numero: "))
+Num3 = int(input("Digite um numero: "))
+
+print(f"Todos os números são iguais? {Num1 == Num2 and Num2 == Num3:}")
+print(f"Todos os numeros são diferentes? {Num1 != Num2 and Num2 != Num3 and Num1 != Num3}")
+print(f"Algum numero é maior que 50!: {Num1 > 50 or Num2>50 or Num3>50}")

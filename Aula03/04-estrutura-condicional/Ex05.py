@@ -7,5 +7,11 @@ Digite a nota do aluno: 8
 
 Saída:
 O aluno está aprovado.
-
 """
+n = int(input("Digite a nota do aluno: "))
+if n > 7:
+    print(f"O aluno foi aprovado")
+elif n == 6 or n == 7:
+    print(f"O aluno ficou de recuperação")
+else:
+    print(f"O aluno foi reprovado")

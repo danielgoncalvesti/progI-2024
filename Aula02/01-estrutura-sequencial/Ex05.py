@@ -8,3 +8,5 @@ Digite uma palavra: python
 Exemplo de saída:
 A palavra em maiúsculas é: PYTHON
 """
+Palavra = input("Digite uma palavra: ")
+print(Palavra.upper())

@@ -18,9 +18,23 @@ numero2 = int(input("Digite o segundo número: "))
 numero3 = int(input("Digite o terceiro número: "))
 
 # Encontrando o maior e o menor número
-maior = encontrar_maior(numero1, numero2, numero3)
-menor = encontrar_menor(numero1, numero2, numero3)
+def encontrar_maior(n1, n2, n3):
+    if n1 > n2 and n1> n3:
+        return f"{n1} é o maior!"
+    elif n2 > n1 and n2 > n3:
+        return f"{n2} é o maior!"
+    elif n3>n1 and n3>n2:
+        return f"{n3} é o maior!"
+
+def encontrar_menor(n1, n2, n3):
+    if n1 < n2 and n1 < n3:
+        return f"{n1} é o menor!"
+    elif n2 < n1 and n2 < n3:
+        return f"{n2} é o menor!"
+    elif n3 < n1 and n3<n2:
+        return f"{n3} é o menor!"
 
 # Exibindo o resultado
-print(f"O maior número é {maior}.")
-print(f"O menor número é {menor}.")
+print(encontrar_maior(numero1,numero2,numero3))
+print(encontrar_menor(numero1,numero2,numero3))
+
