@@ -1,11 +1,11 @@
 """
 Faça um programa que pede dois números e mostra qual deles é o maior.
 """
-NUM1 = int(input("Digite um numero inteiro: "))
-NUM2 = int(input("Digite um numero inteiro: "))
+num1 = int(input("Digite um numero inteiro: "))
+num2 = int(input("Digite um numero inteiro: "))
 
-if NUM1>NUM2:
-    print(f"{NUM1} é maior que {NUM2}")
+if num1>num2:
+    print(f"{num1} é maior que {num2}")
 else:
-    print(f"{NUM2} é maior que {NUM1}")
+    print(f"{num2} é maior que {num1}")
 
