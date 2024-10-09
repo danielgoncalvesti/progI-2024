@@ -8,3 +8,5 @@ Exemplo de saída:
 A palavra em minúsculas é: python
 
 """
+palavra = input("Digite uma palavra: ")
+print(palavra.lower())

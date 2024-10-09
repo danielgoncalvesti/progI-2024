@@ -13,16 +13,27 @@ Saída:
 10 não é menor que 5.
 10 não é igual a 5.
 """
-def eh_maior(a, b):
-    return a > b
-
 numero1 = int(input("Digite o primeiro número: "))
 numero2 = int(input("Digite o segundo número: "))
 
-# Exibindo o resultado
-if eh_maior(numero1, numero2):
-    print(f"{numero1} é maior que {numero2}.")
-else:
-    print(f"{numero1} não é maior que {numero2}.")
+def eh_maior(n1, n2):
+    if n1 > n2:
+        return f"{n1} é maior que {n2}."
+    else:
+        return f"{n1} não é maior que {n2}."
 
-# continue com as outras comparações
+def eh_menor(a, b):
+    if a < b:
+        return f"{a} é menor que {b}"
+    else:
+        return f"{numero1} não é menor que {numero2}"
+
+def eh_igual(number1, number2):
+    if number1 == number2:
+        return f"{number1} é igual a {number2}"
+    else:
+        return f"{number1} não é igual a {number2}"
+
+print(eh_maior(numero1,numero2))
+print(eh_menor(numero1,numero2))
+print(eh_igual(numero1,numero2))

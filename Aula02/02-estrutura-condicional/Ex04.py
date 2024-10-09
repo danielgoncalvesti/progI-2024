@@ -7,10 +7,20 @@ Saída:
 5 é um número positivo.
 
 """
-
-# Solicitando número ao usuário
 numero = int(input("Digite um número inteiro: "))
 
-# Verificando e exibindo o resultado
+def eh_positivo(n):
+    return n > 0
+def eh_negativo(n):
+    return n < 0
+def eh_zero(n):
+    return n == 0
+
+if eh_positivo(numero):
+    print(f"{numero} é um número positivo.")
+elif eh_negativo(numero):
+    print(f"{numero} é um número negativo.")
+elif eh_zero(numero):
+    print(f"{numero} é igual a zero.")
 
 
