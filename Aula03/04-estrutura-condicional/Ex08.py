@@ -9,25 +9,25 @@ Digite um número de 1 a 7: 3
 Saída:
 3 é terça-feira.
 """
-Dia = int(input("Digite um número de 1 a 7: "))
+dia = int(input("Digite um número de 1 a 7: "))
 
-if Dia==1:
+if dia==1:
     print(f"1 é domingo.")
 
-elif Dia==2:
+elif dia==2:
     print(f"2 é segunda-feira.")
 
-elif Dia==3:
+elif dia==3:
     print(f"3 é terça-feira.")
 
-elif Dia==4:
+elif dia==4:
     print(f"4 é quarta-feira.")
 
-elif Dia==5:
+elif dia==5:
     print(f"5 é quinta-feira.")
 
-elif Dia==6:
+elif dia==6:
     print(f"6 é sexta-feira.")
 
-elif Dia==7:
+elif dia==7:
     print(f"7 é Sábado.")
