@@ -5,11 +5,13 @@ Implemente a função imprime_tabuada que recebe um número inteiro
 e imprime a tabuada desse número.
 """
 def imprime_tabuada(numero: str):
-    pass
+    multiplicador = 1
+    while multiplicador < 11:
+        print(f"{numero} X {multiplicador} = {numero*multiplicador}")
+        multiplicador += 1
 
 def main():
     n = int(input("Digite um número para ver sua tabuada: "))
     imprime_tabuada(n)
 
-
-__main__ = False
+main()

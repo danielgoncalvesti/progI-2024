@@ -6,5 +6,8 @@ Obs: Não é permitido usar a função min() para encontrar o maior elemento.
 """
 
 lista_numeros = [15, 5, 10, 60, 50, 40]
-
-print(f"O menor elemento da lista é:")
+verify = lista_numeros[0]
+for x in lista_numeros[0:]:
+    if x < verify:
+        verify = x
+print(f"O menor elemento da lista é: {verify}")

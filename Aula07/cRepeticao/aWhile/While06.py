@@ -11,3 +11,11 @@ Digite um número: 0
 Saída:
 A soma dos números é 10
 """
+soma = 0
+while True:
+    num = int(input("Digite um numero: "))
+    if num == 0:
+        break
+    else:
+        soma = num + soma
+print(f"A soma do numeros é {soma}")

@@ -13,3 +13,12 @@ Digite um número: 0
 Saída:
 O maior número é 8
 """
+verify = 0
+while True:
+    n = int(input("Digite um numero: "))
+    if n == 0:
+        break
+    else:
+        if n > verify:
+            verify = n
+print(f"O maior número é: {verify}")
