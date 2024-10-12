@@ -10,4 +10,10 @@ letra_aleatoria = random.choice(caracteres)
 import random
 caracteres = "abcdefghijklmnopqrstuvwxyz0123456789"
 
+senha = ""
+for s in range(0,6):
+    s = random.choice(caracteres)
+    senha += s
+print(senha)
+
 

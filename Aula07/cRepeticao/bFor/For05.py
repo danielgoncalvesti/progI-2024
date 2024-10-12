@@ -15,3 +15,9 @@ Exemplo de saída:
 import random
 caracteres = "abcdefghijklmnopqrstuvwxyz0123456789"
 
+for x in range(0,10):
+    senha = ""
+    for s in range(0,6):
+        s = random.choice(caracteres)
+        senha += s
+    print(senha)
