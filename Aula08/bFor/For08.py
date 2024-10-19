@@ -13,7 +13,3 @@ Vaca
 animais = ["gato", "cachorro", "vaca", "tigre", "leão", "raposa", "tubarão", "cobra", "tartaruga", "rato", "macaco", "urso"]
 
 
-
-
-
-
