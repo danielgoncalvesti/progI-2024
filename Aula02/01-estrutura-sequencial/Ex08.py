@@ -13,4 +13,12 @@ Saída:
 10.0 / 3.0 = 3.33
 10.0 % 3.0 = 1.0
 """
+num1 = int(input("Digite um número: "))
+num2 = int(input("Digite um número: "))
+
+print(f"{num1} + {num2} = {num1+num2}\n"
+      f"{num1} - {num2} = {num1-num2}\n"
+      f"{num1} * {num2} = {num1*num2}\n"
+      f"{num1} / {num2} = {num1/num2}\n"
+      f"{num1} % {num2} = {num1%num2}\n")
 

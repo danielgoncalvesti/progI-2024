@@ -13,3 +13,9 @@ Saída:
 O valor total com desconto é R$ 180.00.
 Você economizou R$ 20.00.
 """
+compras = float(input("Digite o valor das compras: "))
+
+if compras >= 150:
+    desconto = compras/10
+    print(f"O valor total com desconto é R${compras-desconto}\n"
+          f"Você economizou R${desconto}")
