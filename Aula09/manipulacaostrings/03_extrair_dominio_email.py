@@ -2,14 +2,15 @@
 # Descrição: Crie uma função chamada extrair_dominio que recebe um endereço de email como parâmetro
 # e retorna o domínio do email.
 
-def extrair_dominio(email):
-    return ""
+def extrair_dominio(list):
+    for email in list:
+        print(email.split("@")[1])
+    return None
 
 
 lista_emails = ["usuario@fatec.sp.gov.br", "usuario@dominio.com", "nome.sobrenome@empresa.org"]
 
-for email in lista_emails:
-    print(extrair_dominio(email))
+extrair_dominio(lista_emails)
 
 
 # resultado esperado:

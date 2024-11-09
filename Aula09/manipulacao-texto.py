@@ -4,24 +4,44 @@ Frequentemente, as strings são usadas para representar palavras ou frases,
 mas elas também podem representar qualquer sequência de caracteres, incluindo números e símbolos. 
 Manipular strings é uma habilidade essencial para qualquer programador.
 """
-print(texto)
+
+lista = texto.replace(',','').replace('.', '').replace('\n', '').split(" ")
+contador = 0
+tamanho_palavra = ""
+lista_invertida = []
+texto_caracter_invertido = ""
+ultimo_element = len(texto) -1
+indice = len(lista) -1
+print(lista)
+
+for palavra in lista:
+    palavra_mais_longa = ""
+    contador += 1
+
+    if len(palavra) > len(palavra_mais_longa):
+        palavra_mais_longa = palavra
+
+while (indice >= 0):
+    lista_invertida.append(lista[indice])
+    indice = indice -1
+for posicao in range(ultimo_element, -1, -1):
+    texto_caracter_invertido = texto_caracter_invertido + texto[posicao]
+
 
 # Ex 1. Calcule e imprima o número de palavras no texto.
-print("Ex 1: Número de Palavras: ")
-
+print(f"Ex 1: Número de Palavras: {contador}")
 
 # Ex 2. Encontre e imprima a palavra mais longa no texto.
-print("Ex 2: Palavra Mais Longa: ")
-
+print(f"Ex 2: Palavra Mais Longa: {palavra_mais_longa}")
 
 # Ex 3. Inverta a ordem das palavras no texto e imprima o resultado. Use 02-for ou 01-while.
 # Exemplo: "Olá, mundo!" -> "mundo! Olá,"
-print("Ex 3: Invertendo a Ordem das Palavras: ")
+print(f"Ex 3: Invertendo a Ordem das Palavras: {lista_invertida}")
 
 
 # Ex 4. Inverta a ordem dos caracteres no texto e imprima o resultado. Use 01-while.
 # Exemplo: "Olá, mundo!" -> "!odnum ,álO"
-print("Ex 4: Invertendo a Ordem dos Caracteres: ")
+print(f"Ex 4: Invertendo a Ordem dos Caracteres: {texto_caracter_invertido}")
 
 
 # Ex 5. Use um laço 02-for para listar todas as palavras no texto que começam com uma letra maiúscula.
