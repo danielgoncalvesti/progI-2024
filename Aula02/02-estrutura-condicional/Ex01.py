@@ -12,10 +12,5 @@ Saída:
 numero = int(input("Digite um número: "))
 
 def eh_par(n):
-    if n % 2 == 0:
-        print(f"O número {n} é par!")
-        return True
-    else:
-        print(f"O número {n} é impar")
-        return False
+    pass
 print(eh_par(numero))

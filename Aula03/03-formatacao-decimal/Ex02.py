@@ -12,6 +12,6 @@ O lucro é de: 50.00
 venda = float(input("Digite o valor da venda: "))
 custo = float(input("Digite o custo do produto: "))
 
-lucro  = venda - custo
+
 
 print(f"O lucro foi de: R${lucro:.2f}")

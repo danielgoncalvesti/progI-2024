@@ -5,10 +5,3 @@ O loop termina quando o usuário digita o número 0, e o programa exibe a soma f
 num = 0
 soma = 0
 
-while True:
-    num = int(input("Digite um número: "))
-    if num>0:
-        soma = num + soma
-    elif num == 0:
-        print(f"O valor das somas foram: {soma}")
-        break

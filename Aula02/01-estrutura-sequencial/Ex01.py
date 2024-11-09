@@ -8,5 +8,3 @@ nome = "Ana"
 idade = 25
 
 # Seu código aqui
-msg = f"{nome} tem {idade} anos."
-print(msg)

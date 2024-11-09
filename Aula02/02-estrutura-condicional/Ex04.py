@@ -10,11 +10,11 @@ Saída:
 numero = int(input("Digite um número inteiro: "))
 
 def eh_positivo(n):
-    return n > 0
+    pass
 def eh_negativo(n):
-    return n < 0
+    pass
 def eh_zero(n):
-    return n == 0
+    pass
 
 if eh_positivo(numero):
     print(f"{numero} é um número positivo.")

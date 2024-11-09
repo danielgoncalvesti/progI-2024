@@ -14,9 +14,9 @@ Um é par e o outro ímpar? True
 num1 = int(input("Digite o primeiro número: "))
 num2 = int(input("Digite o segundo número: "))
 
-ambos_pares = (num1 % 2 == 0) and (num2 % 2 == 0) 
-ambos_impares = (num1 % 2 != 0) and (num2 % 2 != 0)
-um_par_outro_impar = ((num1 % 2 == 0) and (num2 % 2 != 0)) or ((num1 % 2 != 0) and (num2 % 2 == 0))
+ambos_pares = false
+ambos_impares = false
+um_par_outro_impar = false
 
 print(f"Ambos são pares? {ambos_pares}")
 print(f"Ambos são ímpares? {ambos_impares}")

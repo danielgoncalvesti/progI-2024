@@ -14,12 +14,7 @@ nota = float(input("Digite a nota do aluno: "))
 
 # Verificando o status do aluno
 def verificar_status_aluno(n):
-    if n > 7:
-        return f"APROVADO"
-    elif n == 6 or n == 7:
-        return f"RECUPERAÇÃO"
-    else:
-        return f"REPROVADO"
+    pass
 
 # Exibindo o resultado
 print(verificar_status_aluno(nota))

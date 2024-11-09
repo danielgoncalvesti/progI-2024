@@ -13,8 +13,7 @@ A margem de lucro é de: 20.00%
 venda = float(input("Digite o valor da venda: "))
 custo = float(input("Digite o custo do produto: "))
 
-lucro  = venda - custo
-margem = (lucro/custo) * 100
+
 
 print(f"O lucro foi de: R${lucro:.2f}")
 print(f"A margem de lucro foi de: {margem:.2f}%")

@@ -9,4 +9,4 @@ Saída:
 A frase digitada possui 39 caracteres.
 """
 frase = input("Digite uma frase: ")
-print(f"A frase digitada possui: {len(frase)} caracteres.")
+

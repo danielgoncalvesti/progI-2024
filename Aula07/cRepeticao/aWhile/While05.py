@@ -8,14 +8,3 @@ Após cada tentativa, o programa informa se o palpite está correto,
 import random
 numero_secreto = random.randint(1, 100)
 
-while True:
-    tentativa = int(input("Digite um número: "))
-    if numero_secreto != tentativa:
-        print(numero_secreto)
-        if numero_secreto > tentativa:
-            print("É muito baixo, tente novamente!!")
-        else:
-            print("É muito alto, tente novamente!!")
-    else:
-        print("Parabéns, você acertou!!")
-        break

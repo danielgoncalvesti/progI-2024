@@ -19,20 +19,10 @@ numero3 = int(input("Digite o terceiro número: "))
 
 # Encontrando o maior e o menor número
 def encontrar_maior(n1, n2, n3):
-    if n1 > n2 and n1> n3:
-        return f"{n1} é o maior!"
-    elif n2 > n1 and n2 > n3:
-        return f"{n2} é o maior!"
-    elif n3>n1 and n3>n2:
-        return f"{n3} é o maior!"
+    pass
 
 def encontrar_menor(n1, n2, n3):
-    if n1 < n2 and n1 < n3:
-        return f"{n1} é o menor!"
-    elif n2 < n1 and n2 < n3:
-        return f"{n2} é o menor!"
-    elif n3 < n1 and n3<n2:
-        return f"{n3} é o menor!"
+    pass
 
 # Exibindo o resultado
 print(encontrar_maior(numero1,numero2,numero3))

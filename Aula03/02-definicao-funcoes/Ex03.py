@@ -12,9 +12,6 @@ number1 = int(input("Digite um numero: "))
 number2 = int(input("Digite um numero: "))
 
 def eh_divisivel(n1, n2):
-    if n1%n2 == 0:
-        return True
-    else:
-        return False
+    pass
 
 print(f"O primeiro número é divisível pelo segundo? {eh_divisivel(number1,number2)}")

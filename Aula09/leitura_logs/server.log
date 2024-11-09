@@ -1,0 +1,500 @@
+WARNING - 2024-03-14 07:00:00 - User 'rlopez' password change attempt failed from IP 192.168.2.120.
+ERROR - 2024-03-14 07:02:00 - failed login attempt for user 'msmith' from IP 192.168.2.124. 
+ERROR - 2024-03-14 07:04:00 - system error: disk space critically low for user 'tdavis' from IP 192.168.2.194. on device '/dev/sda1'.
+ERROR - 2024-03-14 07:06:00 - failed login attempt for user 'msmith' from IP 192.168.1.190. 
+INFO - 2024-03-14 07:08:00 - User 'rlopez' password updated from IP 192.168.2.100.
+ERROR - 2024-03-14 07:10:00 - file not found for user 'jdoe' from IP 192.168.1.167. 
+ERROR - 2024-03-14 07:12:00 - application error for user 'jdoe' from IP 192.168.1.115. 
+WARNING - 2024-03-14 07:14:00 - User 'rlopez' detected suspicious activity from IP 192.168.1.126.
+WARNING - 2024-03-14 07:16:00 - User 'jdoe' user account locked out from IP 192.168.1.178.
+WARNING - 2024-03-14 07:18:00 - User 'kgreen' user account locked out from IP 192.168.1.147.
+WARNING - 2024-03-14 07:20:00 - User 'msmith' detected suspicious activity from IP 192.168.2.152.
+WARNING - 2024-03-14 07:22:00 - User 'tdavis' user account locked out from IP 192.168.2.187.
+WARNING - 2024-03-14 07:24:00 - User 'jdoe' password change attempt failed from IP 192.168.1.166.
+INFO - 2024-03-14 07:26:00 - User 'kgreen' new user created from IP 192.168.1.136.
+INFO - 2024-03-14 07:28:00 - User 'admin' password updated from IP 192.168.1.190.
+WARNING - 2024-03-14 07:30:00 - User 'tdavis' detected suspicious activity from IP 192.168.1.199.
+INFO - 2024-03-14 07:32:00 - User 'admin' backup completed successfully from IP 192.168.2.137.
+INFO - 2024-03-14 07:34:00 - User 'admin' user logged in from IP 192.168.1.127.
+WARNING - 2024-03-14 07:36:00 - User 'rlopez' detected suspicious activity from IP 192.168.1.122.
+ERROR - 2024-03-14 07:38:00 - database connection failed for user 'admin' from IP 192.168.1.115. 
+INFO - 2024-03-14 07:40:00 - User 'msmith' user logged out from IP 192.168.1.109.
+ERROR - 2024-03-14 07:42:00 - file not found for user 'admin' from IP 192.168.1.181. 
+INFO - 2024-03-14 07:44:00 - User 'msmith' password updated from IP 192.168.1.135.
+WARNING - 2024-03-14 07:46:00 - User 'admin' password change attempt failed from IP 192.168.1.188.
+ERROR - 2024-03-14 07:48:00 - file not found for user 'msmith' from IP 192.168.2.121. 
+INFO - 2024-03-14 07:50:00 - User 'admin' user logged out from IP 192.168.1.126.
+WARNING - 2024-03-14 07:52:00 - User 'admin' attempted to access unauthorized resource from IP 192.168.2.111.
+ERROR - 2024-03-14 07:54:00 - failed login attempt for user 'kgreen' from IP 192.168.1.179. 
+INFO - 2024-03-14 07:56:00 - User 'msmith' password updated from IP 192.168.1.107.
+ERROR - 2024-03-14 07:58:00 - system error: disk space critically low for user 'kgreen' from IP 192.168.1.108. on device '/dev/sda1'.
+INFO - 2024-03-14 08:00:00 - User 'msmith' backup completed successfully from IP 192.168.1.177.
+ERROR - 2024-03-14 08:02:00 - system error: disk space critically low for user 'jdoe' from IP 192.168.2.148. on device '/dev/sda1'.
+WARNING - 2024-03-14 08:04:00 - User 'admin' password change attempt failed from IP 192.168.2.165.
+WARNING - 2024-03-14 08:06:00 - User 'rlopez' user account locked out from IP 192.168.1.123.
+WARNING - 2024-03-14 08:08:00 - User 'tdavis' detected suspicious activity from IP 192.168.2.151.
+WARNING - 2024-03-14 08:10:00 - User 'kgreen' password change attempt failed from IP 192.168.2.166.
+ERROR - 2024-03-14 08:12:00 - failed login attempt for user 'kgreen' from IP 192.168.2.182. 
+INFO - 2024-03-14 08:14:00 - User 'admin' user logged out from IP 192.168.1.106.
+ERROR - 2024-03-14 08:16:00 - database connection failed for user 'jdoe' from IP 192.168.2.186. 
+WARNING - 2024-03-14 08:18:00 - User 'msmith' user account locked out from IP 192.168.1.168.
+WARNING - 2024-03-14 08:20:00 - User 'kgreen' detected suspicious activity from IP 192.168.1.182.
+ERROR - 2024-03-14 08:22:00 - application error for user 'msmith' from IP 192.168.1.153. 
+ERROR - 2024-03-14 08:24:00 - system error: disk space critically low for user 'admin' from IP 192.168.2.124. on device '/dev/sda1'.
+WARNING - 2024-03-14 08:26:00 - User 'msmith' detected suspicious activity from IP 192.168.1.159.
+ERROR - 2024-03-14 08:28:00 - system error: disk space critically low for user 'msmith' from IP 192.168.2.190. on device '/dev/sda1'.
+WARNING - 2024-03-14 08:30:00 - User 'tdavis' detected suspicious activity from IP 192.168.2.176.
+INFO - 2024-03-14 08:32:00 - User 'tdavis' user logged in from IP 192.168.1.158.
+WARNING - 2024-03-14 08:34:00 - User 'jdoe' password change attempt failed from IP 192.168.2.100.
+WARNING - 2024-03-14 08:36:00 - User 'msmith' password change attempt failed from IP 192.168.1.124.
+ERROR - 2024-03-14 08:38:00 - file not found for user 'admin' from IP 192.168.2.155. 
+WARNING - 2024-03-14 08:40:00 - User 'tdavis' detected suspicious activity from IP 192.168.1.120.
+ERROR - 2024-03-14 08:42:00 - application error for user 'kgreen' from IP 192.168.1.119. 
+INFO - 2024-03-14 08:44:00 - User 'tdavis' user logged out from IP 192.168.2.112.
+INFO - 2024-03-14 08:46:00 - User 'rlopez' user logged out from IP 192.168.2.161.
+WARNING - 2024-03-14 08:48:00 - User 'tdavis' detected suspicious activity from IP 192.168.1.107.
+ERROR - 2024-03-14 08:50:00 - application error for user 'kgreen' from IP 192.168.1.160. 
+ERROR - 2024-03-14 08:52:00 - system error: disk space critically low for user 'tdavis' from IP 192.168.1.192. on device '/dev/sda1'.
+INFO - 2024-03-14 08:54:00 - User 'admin' accessed resource/secure/data from IP 192.168.2.170.
+ERROR - 2024-03-14 08:56:00 - system error: disk space critically low for user 'jdoe' from IP 192.168.1.106. on device '/dev/sda1'.
+INFO - 2024-03-14 08:58:00 - User 'admin' new user created from IP 192.168.2.198.
+ERROR - 2024-03-14 09:00:00 - failed login attempt for user 'msmith' from IP 192.168.2.123. 
+WARNING - 2024-03-14 09:02:00 - User 'rlopez' user account locked out from IP 192.168.1.109.
+INFO - 2024-03-14 09:04:00 - User 'kgreen' password updated from IP 192.168.1.130.
+WARNING - 2024-03-14 09:06:00 - User 'rlopez' detected suspicious activity from IP 192.168.1.197.
+WARNING - 2024-03-14 09:08:00 - User 'jdoe' attempted to access unauthorized resource from IP 192.168.2.125.
+INFO - 2024-03-14 09:10:00 - User 'jdoe' new user created from IP 192.168.1.155.
+WARNING - 2024-03-14 09:12:00 - User 'rlopez' user account locked out from IP 192.168.2.102.
+WARNING - 2024-03-14 09:14:00 - User 'admin' attempted to access unauthorized resource from IP 192.168.1.199.
+INFO - 2024-03-14 09:16:00 - User 'jdoe' user logged out from IP 192.168.2.150.
+INFO - 2024-03-14 09:18:00 - User 'kgreen' user logged in from IP 192.168.2.110.
+INFO - 2024-03-14 09:20:00 - User 'kgreen' new user created from IP 192.168.1.131.
+INFO - 2024-03-14 09:22:00 - User 'msmith' accessed resource/secure/data from IP 192.168.1.106.
+WARNING - 2024-03-14 09:24:00 - User 'kgreen' attempted to access unauthorized resource from IP 192.168.1.168.
+WARNING - 2024-03-14 09:26:00 - User 'jdoe' detected suspicious activity from IP 192.168.2.199.
+ERROR - 2024-03-14 09:28:00 - failed login attempt for user 'msmith' from IP 192.168.2.152. 
+INFO - 2024-03-14 09:30:00 - User 'admin' user logged in from IP 192.168.1.111.
+INFO - 2024-03-14 09:32:00 - User 'admin' user logged in from IP 192.168.2.196.
+INFO - 2024-03-14 09:34:00 - User 'rlopez' user logged out from IP 192.168.2.166.
+ERROR - 2024-03-14 09:36:00 - file not found for user 'admin' from IP 192.168.1.105. 
+ERROR - 2024-03-14 09:38:00 - application error for user 'admin' from IP 192.168.1.106. 
+WARNING - 2024-03-14 09:40:00 - User 'tdavis' user account locked out from IP 192.168.1.156.
+ERROR - 2024-03-14 09:42:00 - file not found for user 'kgreen' from IP 192.168.2.161. 
+WARNING - 2024-03-14 09:44:00 - User 'admin' detected suspicious activity from IP 192.168.2.145.
+ERROR - 2024-03-14 09:46:00 - failed login attempt for user 'rlopez' from IP 192.168.1.156. 
+INFO - 2024-03-14 09:48:00 - User 'tdavis' accessed resource/secure/data from IP 192.168.2.184.
+ERROR - 2024-03-14 09:50:00 - system error: disk space critically low for user 'admin' from IP 192.168.1.183. on device '/dev/sda1'.
+WARNING - 2024-03-14 09:52:00 - User 'jdoe' user account locked out from IP 192.168.2.174.
+INFO - 2024-03-14 09:54:00 - User 'kgreen' user logged in from IP 192.168.1.159.
+INFO - 2024-03-14 09:56:00 - User 'kgreen' accessed resource/secure/data from IP 192.168.1.107.
+INFO - 2024-03-14 09:58:00 - User 'jdoe' accessed resource/secure/data from IP 192.168.1.104.
+INFO - 2024-03-14 10:00:00 - User 'jdoe' accessed resource/secure/data from IP 192.168.2.111.
+INFO - 2024-03-14 10:02:00 - User 'kgreen' user logged in from IP 192.168.1.171.
+WARNING - 2024-03-14 10:04:00 - User 'msmith' password change attempt failed from IP 192.168.1.154.
+WARNING - 2024-03-14 10:06:00 - User 'rlopez' attempted to access unauthorized resource from IP 192.168.2.149.
+ERROR - 2024-03-14 10:08:00 - failed login attempt for user 'rlopez' from IP 192.168.2.199. 
+WARNING - 2024-03-14 10:10:00 - User 'jdoe' detected suspicious activity from IP 192.168.2.119.
+WARNING - 2024-03-14 10:12:00 - User 'rlopez' password change attempt failed from IP 192.168.1.181.
+ERROR - 2024-03-14 10:14:00 - system error: disk space critically low for user 'tdavis' from IP 192.168.1.137. on device '/dev/sda1'.
+WARNING - 2024-03-14 10:16:00 - User 'kgreen' password change attempt failed from IP 192.168.2.132.
+WARNING - 2024-03-14 10:18:00 - User 'kgreen' password change attempt failed from IP 192.168.2.194.
+ERROR - 2024-03-14 10:20:00 - system error: disk space critically low for user 'rlopez' from IP 192.168.1.129. on device '/dev/sda1'.
+ERROR - 2024-03-14 10:22:00 - system error: disk space critically low for user 'admin' from IP 192.168.1.164. on device '/dev/sda1'.
+WARNING - 2024-03-14 10:24:00 - User 'tdavis' password change attempt failed from IP 192.168.1.167.
+ERROR - 2024-03-14 10:26:00 - system error: disk space critically low for user 'msmith' from IP 192.168.1.119. on device '/dev/sda1'.
+INFO - 2024-03-14 10:28:00 - User 'rlopez' new user created from IP 192.168.2.157.
+ERROR - 2024-03-14 10:30:00 - database connection failed for user 'msmith' from IP 192.168.2.135. 
+ERROR - 2024-03-14 10:32:00 - database connection failed for user 'jdoe' from IP 192.168.1.193. 
+INFO - 2024-03-14 10:34:00 - User 'admin' backup completed successfully from IP 192.168.1.176.
+INFO - 2024-03-14 10:36:00 - User 'rlopez' accessed resource/secure/data from IP 192.168.2.166.
+WARNING - 2024-03-14 10:38:00 - User 'jdoe' attempted to access unauthorized resource from IP 192.168.2.153.
+INFO - 2024-03-14 10:40:00 - User 'msmith' user logged in from IP 192.168.1.138.
+WARNING - 2024-03-14 10:42:00 - User 'tdavis' attempted to access unauthorized resource from IP 192.168.2.191.
+ERROR - 2024-03-14 10:44:00 - file not found for user 'msmith' from IP 192.168.2.133. 
+INFO - 2024-03-14 10:46:00 - User 'jdoe' new user created from IP 192.168.1.181.
+INFO - 2024-03-14 10:48:00 - User 'admin' backup completed successfully from IP 192.168.2.196.
+ERROR - 2024-03-14 10:50:00 - application error for user 'kgreen' from IP 192.168.2.161. 
+WARNING - 2024-03-14 10:52:00 - User 'kgreen' password change attempt failed from IP 192.168.1.134.
+ERROR - 2024-03-14 10:54:00 - system error: disk space critically low for user 'kgreen' from IP 192.168.1.174. on device '/dev/sda1'.
+WARNING - 2024-03-14 10:56:00 - User 'admin' password change attempt failed from IP 192.168.1.124.
+ERROR - 2024-03-14 10:58:00 - file not found for user 'jdoe' from IP 192.168.2.103. 
+ERROR - 2024-03-14 11:00:00 - system error: disk space critically low for user 'rlopez' from IP 192.168.1.106. on device '/dev/sda1'.
+INFO - 2024-03-14 11:02:00 - User 'admin' password updated from IP 192.168.2.152.
+ERROR - 2024-03-14 11:04:00 - system error: disk space critically low for user 'rlopez' from IP 192.168.2.129. on device '/dev/sda1'.
+WARNING - 2024-03-14 11:06:00 - User 'rlopez' password change attempt failed from IP 192.168.2.126.
+WARNING - 2024-03-14 11:08:00 - User 'jdoe' password change attempt failed from IP 192.168.2.136.
+ERROR - 2024-03-14 11:10:00 - failed login attempt for user 'admin' from IP 192.168.1.163. 
+WARNING - 2024-03-14 11:12:00 - User 'kgreen' user account locked out from IP 192.168.2.155.
+ERROR - 2024-03-14 11:14:00 - database connection failed for user 'tdavis' from IP 192.168.2.149. 
+WARNING - 2024-03-14 11:16:00 - User 'msmith' user account locked out from IP 192.168.2.196.
+WARNING - 2024-03-14 11:18:00 - User 'tdavis' user account locked out from IP 192.168.1.153.
+ERROR - 2024-03-14 11:20:00 - application error for user 'tdavis' from IP 192.168.1.137. 
+INFO - 2024-03-14 11:22:00 - User 'jdoe' user logged out from IP 192.168.1.100.
+WARNING - 2024-03-14 11:24:00 - User 'tdavis' attempted to access unauthorized resource from IP 192.168.1.148.
+ERROR - 2024-03-14 11:26:00 - database connection failed for user 'tdavis' from IP 192.168.2.192. 
+WARNING - 2024-03-14 11:28:00 - User 'jdoe' password change attempt failed from IP 192.168.2.138.
+INFO - 2024-03-14 11:30:00 - User 'rlopez' password updated from IP 192.168.2.133.
+ERROR - 2024-03-14 11:32:00 - file not found for user 'admin' from IP 192.168.1.127. 
+INFO - 2024-03-14 11:34:00 - User 'jdoe' password updated from IP 192.168.1.109.
+WARNING - 2024-03-14 11:36:00 - User 'rlopez' detected suspicious activity from IP 192.168.2.162.
+INFO - 2024-03-14 11:38:00 - User 'msmith' password updated from IP 192.168.1.166.
+INFO - 2024-03-14 11:40:00 - User 'tdavis' accessed resource/secure/data from IP 192.168.2.193.
+WARNING - 2024-03-14 11:42:00 - User 'tdavis' detected suspicious activity from IP 192.168.2.183.
+ERROR - 2024-03-14 11:44:00 - file not found for user 'msmith' from IP 192.168.1.117. 
+ERROR - 2024-03-14 11:46:00 - failed login attempt for user 'admin' from IP 192.168.1.106. 
+WARNING - 2024-03-14 11:48:00 - User 'msmith' detected suspicious activity from IP 192.168.2.164.
+WARNING - 2024-03-14 11:50:00 - User 'kgreen' attempted to access unauthorized resource from IP 192.168.1.188.
+WARNING - 2024-03-14 11:52:00 - User 'msmith' user account locked out from IP 192.168.1.115.
+WARNING - 2024-03-14 11:54:00 - User 'kgreen' attempted to access unauthorized resource from IP 192.168.1.101.
+ERROR - 2024-03-14 11:56:00 - system error: disk space critically low for user 'tdavis' from IP 192.168.1.163. on device '/dev/sda1'.
+INFO - 2024-03-14 11:58:00 - User 'kgreen' new user created from IP 192.168.2.169.
+WARNING - 2024-03-14 12:00:00 - User 'tdavis' user account locked out from IP 192.168.1.111.
+WARNING - 2024-03-14 12:02:00 - User 'admin' detected suspicious activity from IP 192.168.1.143.
+INFO - 2024-03-14 12:04:00 - User 'tdavis' new user created from IP 192.168.2.193.
+INFO - 2024-03-14 12:06:00 - User 'msmith' new user created from IP 192.168.2.141.
+INFO - 2024-03-14 12:08:00 - User 'tdavis' user logged out from IP 192.168.1.178.
+INFO - 2024-03-14 12:10:00 - User 'kgreen' new user created from IP 192.168.1.161.
+ERROR - 2024-03-14 12:12:00 - file not found for user 'tdavis' from IP 192.168.1.163. 
+INFO - 2024-03-14 12:14:00 - User 'rlopez' password updated from IP 192.168.1.136.
+ERROR - 2024-03-14 12:16:00 - application error for user 'kgreen' from IP 192.168.2.120. 
+WARNING - 2024-03-14 12:18:00 - User 'jdoe' detected suspicious activity from IP 192.168.1.159.
+ERROR - 2024-03-14 12:20:00 - failed login attempt for user 'jdoe' from IP 192.168.2.139. 
+INFO - 2024-03-14 12:22:00 - User 'msmith' user logged in from IP 192.168.2.109.
+INFO - 2024-03-14 12:24:00 - User 'kgreen' accessed resource/secure/data from IP 192.168.2.134.
+ERROR - 2024-03-14 12:26:00 - file not found for user 'admin' from IP 192.168.1.175. 
+ERROR - 2024-03-14 12:28:00 - database connection failed for user 'rlopez' from IP 192.168.2.121. 
+INFO - 2024-03-14 12:30:00 - User 'rlopez' new user created from IP 192.168.2.137.
+WARNING - 2024-03-14 12:32:00 - User 'msmith' password change attempt failed from IP 192.168.1.191.
+WARNING - 2024-03-14 12:34:00 - User 'jdoe' user account locked out from IP 192.168.2.141.
+WARNING - 2024-03-14 12:36:00 - User 'admin' password change attempt failed from IP 192.168.1.145.
+ERROR - 2024-03-14 12:38:00 - database connection failed for user 'admin' from IP 192.168.2.147. 
+WARNING - 2024-03-14 12:40:00 - User 'rlopez' detected suspicious activity from IP 192.168.1.164.
+ERROR - 2024-03-14 12:42:00 - file not found for user 'admin' from IP 192.168.2.197. 
+INFO - 2024-03-14 12:44:00 - User 'kgreen' user logged out from IP 192.168.2.110.
+ERROR - 2024-03-14 12:46:00 - database connection failed for user 'tdavis' from IP 192.168.1.179. 
+WARNING - 2024-03-14 12:48:00 - User 'admin' user account locked out from IP 192.168.2.157.
+INFO - 2024-03-14 12:50:00 - User 'admin' accessed resource/secure/data from IP 192.168.2.137.
+WARNING - 2024-03-14 12:52:00 - User 'rlopez' user account locked out from IP 192.168.1.153.
+INFO - 2024-03-14 12:54:00 - User 'msmith' accessed resource/secure/data from IP 192.168.2.136.
+WARNING - 2024-03-14 12:56:00 - User 'jdoe' password change attempt failed from IP 192.168.2.177.
+WARNING - 2024-03-14 12:58:00 - User 'jdoe' detected suspicious activity from IP 192.168.2.135.
+ERROR - 2024-03-14 13:00:00 - file not found for user 'kgreen' from IP 192.168.2.164. 
+INFO - 2024-03-14 13:02:00 - User 'tdavis' password updated from IP 192.168.1.111.
+INFO - 2024-03-14 13:04:00 - User 'jdoe' user logged out from IP 192.168.2.155.
+INFO - 2024-03-14 13:06:00 - User 'tdavis' backup completed successfully from IP 192.168.2.126.
+ERROR - 2024-03-14 13:08:00 - application error for user 'tdavis' from IP 192.168.2.128. 
+WARNING - 2024-03-14 13:10:00 - User 'tdavis' password change attempt failed from IP 192.168.2.180.
+WARNING - 2024-03-14 13:12:00 - User 'jdoe' user account locked out from IP 192.168.2.111.
+INFO - 2024-03-14 13:14:00 - User 'rlopez' backup completed successfully from IP 192.168.1.160.
+ERROR - 2024-03-14 13:16:00 - database connection failed for user 'msmith' from IP 192.168.2.169. 
+ERROR - 2024-03-14 13:18:00 - file not found for user 'jdoe' from IP 192.168.2.170. 
+INFO - 2024-03-14 13:20:00 - User 'rlopez' backup completed successfully from IP 192.168.2.114.
+ERROR - 2024-03-14 13:22:00 - file not found for user 'admin' from IP 192.168.1.126. 
+INFO - 2024-03-14 13:24:00 - User 'kgreen' accessed resource/secure/data from IP 192.168.1.100.
+INFO - 2024-03-14 13:26:00 - User 'kgreen' new user created from IP 192.168.2.151.
+ERROR - 2024-03-14 13:28:00 - database connection failed for user 'jdoe' from IP 192.168.1.104. 
+WARNING - 2024-03-14 13:30:00 - User 'rlopez' attempted to access unauthorized resource from IP 192.168.1.108.
+INFO - 2024-03-14 13:32:00 - User 'kgreen' password updated from IP 192.168.1.160.
+WARNING - 2024-03-14 13:34:00 - User 'kgreen' user account locked out from IP 192.168.2.163.
+WARNING - 2024-03-14 13:36:00 - User 'msmith' detected suspicious activity from IP 192.168.1.119.
+WARNING - 2024-03-14 13:38:00 - User 'admin' attempted to access unauthorized resource from IP 192.168.2.154.
+INFO - 2024-03-14 13:40:00 - User 'kgreen' backup completed successfully from IP 192.168.2.111.
+INFO - 2024-03-14 13:42:00 - User 'msmith' user logged out from IP 192.168.2.101.
+ERROR - 2024-03-14 13:44:00 - database connection failed for user 'admin' from IP 192.168.1.147. 
+WARNING - 2024-03-14 13:46:00 - User 'admin' detected suspicious activity from IP 192.168.2.192.
+INFO - 2024-03-14 13:48:00 - User 'rlopez' accessed resource/secure/data from IP 192.168.2.125.
+INFO - 2024-03-14 13:50:00 - User 'tdavis' accessed resource/secure/data from IP 192.168.2.163.
+INFO - 2024-03-14 13:52:00 - User 'jdoe' password updated from IP 192.168.2.117.
+INFO - 2024-03-14 13:54:00 - User 'tdavis' user logged out from IP 192.168.1.187.
+WARNING - 2024-03-14 13:56:00 - User 'kgreen' user account locked out from IP 192.168.1.151.
+WARNING - 2024-03-14 13:58:00 - User 'rlopez' password change attempt failed from IP 192.168.1.110.
+ERROR - 2024-03-14 14:00:00 - file not found for user 'jdoe' from IP 192.168.1.199. 
+INFO - 2024-03-14 14:02:00 - User 'admin' password updated from IP 192.168.2.110.
+WARNING - 2024-03-14 14:04:00 - User 'jdoe' user account locked out from IP 192.168.1.130.
+WARNING - 2024-03-14 14:06:00 - User 'msmith' user account locked out from IP 192.168.1.184.
+ERROR - 2024-03-14 14:08:00 - system error: disk space critically low for user 'kgreen' from IP 192.168.1.189. on device '/dev/sda1'.
+WARNING - 2024-03-14 14:10:00 - User 'rlopez' user account locked out from IP 192.168.1.172.
+INFO - 2024-03-14 14:12:00 - User 'jdoe' password updated from IP 192.168.2.154.
+ERROR - 2024-03-14 14:14:00 - system error: disk space critically low for user 'jdoe' from IP 192.168.1.106. on device '/dev/sda1'.
+ERROR - 2024-03-14 14:16:00 - failed login attempt for user 'jdoe' from IP 192.168.1.199. 
+ERROR - 2024-03-14 14:18:00 - file not found for user 'msmith' from IP 192.168.2.198. 
+WARNING - 2024-03-14 14:20:00 - User 'msmith' detected suspicious activity from IP 192.168.2.161.
+ERROR - 2024-03-14 14:22:00 - failed login attempt for user 'admin' from IP 192.168.2.112. 
+ERROR - 2024-03-14 14:24:00 - database connection failed for user 'msmith' from IP 192.168.1.182. 
+ERROR - 2024-03-14 14:26:00 - failed login attempt for user 'msmith' from IP 192.168.1.148. 
+WARNING - 2024-03-14 14:28:00 - User 'jdoe' attempted to access unauthorized resource from IP 192.168.2.148.
+ERROR - 2024-03-14 14:30:00 - database connection failed for user 'kgreen' from IP 192.168.2.200. 
+INFO - 2024-03-14 14:32:00 - User 'admin' new user created from IP 192.168.2.169.
+ERROR - 2024-03-14 14:34:00 - file not found for user 'tdavis' from IP 192.168.1.159. 
+INFO - 2024-03-14 14:36:00 - User 'msmith' user logged out from IP 192.168.2.159.
+WARNING - 2024-03-14 14:38:00 - User 'rlopez' password change attempt failed from IP 192.168.1.142.
+INFO - 2024-03-14 14:40:00 - User 'tdavis' user logged out from IP 192.168.1.152.
+WARNING - 2024-03-14 14:42:00 - User 'jdoe' detected suspicious activity from IP 192.168.1.198.
+INFO - 2024-03-14 14:44:00 - User 'admin' password updated from IP 192.168.1.158.
+WARNING - 2024-03-14 14:46:00 - User 'tdavis' attempted to access unauthorized resource from IP 192.168.1.133.
+INFO - 2024-03-14 14:48:00 - User 'msmith' user logged in from IP 192.168.2.102.
+INFO - 2024-03-14 14:50:00 - User 'rlopez' user logged out from IP 192.168.2.117.
+ERROR - 2024-03-14 14:52:00 - system error: disk space critically low for user 'rlopez' from IP 192.168.2.126. on device '/dev/sda1'.
+ERROR - 2024-03-14 14:54:00 - database connection failed for user 'admin' from IP 192.168.1.145. 
+ERROR - 2024-03-14 14:56:00 - system error: disk space critically low for user 'rlopez' from IP 192.168.1.114. on device '/dev/sda1'.
+INFO - 2024-03-14 14:58:00 - User 'admin' accessed resource/secure/data from IP 192.168.1.109.
+WARNING - 2024-03-14 15:00:00 - User 'kgreen' attempted to access unauthorized resource from IP 192.168.1.151.
+WARNING - 2024-03-14 15:02:00 - User 'admin' user account locked out from IP 192.168.2.120.
+INFO - 2024-03-14 15:04:00 - User 'tdavis' new user created from IP 192.168.1.157.
+INFO - 2024-03-14 15:06:00 - User 'kgreen' accessed resource/secure/data from IP 192.168.1.110.
+WARNING - 2024-03-14 15:08:00 - User 'tdavis' password change attempt failed from IP 192.168.1.141.
+ERROR - 2024-03-14 15:10:00 - database connection failed for user 'admin' from IP 192.168.2.137. 
+WARNING - 2024-03-14 15:12:00 - User 'jdoe' user account locked out from IP 192.168.2.149.
+INFO - 2024-03-14 15:14:00 - User 'kgreen' user logged out from IP 192.168.1.172.
+ERROR - 2024-03-14 15:16:00 - failed login attempt for user 'tdavis' from IP 192.168.1.145. 
+INFO - 2024-03-14 15:18:00 - User 'msmith' accessed resource/secure/data from IP 192.168.2.106.
+INFO - 2024-03-14 15:20:00 - User 'jdoe' new user created from IP 192.168.2.160.
+ERROR - 2024-03-14 15:22:00 - file not found for user 'admin' from IP 192.168.1.172. 
+ERROR - 2024-03-14 15:24:00 - failed login attempt for user 'jdoe' from IP 192.168.1.124. 
+INFO - 2024-03-14 15:26:00 - User 'rlopez' user logged out from IP 192.168.1.140.
+ERROR - 2024-03-14 15:28:00 - application error for user 'admin' from IP 192.168.2.124. 
+WARNING - 2024-03-14 15:30:00 - User 'rlopez' user account locked out from IP 192.168.1.148.
+ERROR - 2024-03-14 15:32:00 - database connection failed for user 'admin' from IP 192.168.1.173. 
+ERROR - 2024-03-14 15:34:00 - failed login attempt for user 'rlopez' from IP 192.168.2.104. 
+INFO - 2024-03-14 15:36:00 - User 'msmith' backup completed successfully from IP 192.168.1.169.
+ERROR - 2024-03-14 15:38:00 - failed login attempt for user 'msmith' from IP 192.168.1.185. 
+WARNING - 2024-03-14 15:40:00 - User 'kgreen' detected suspicious activity from IP 192.168.2.143.
+INFO - 2024-03-14 15:42:00 - User 'kgreen' user logged out from IP 192.168.2.155.
+WARNING - 2024-03-14 15:44:00 - User 'tdavis' password change attempt failed from IP 192.168.2.144.
+WARNING - 2024-03-14 15:46:00 - User 'tdavis' user account locked out from IP 192.168.1.120.
+ERROR - 2024-03-14 15:48:00 - system error: disk space critically low for user 'tdavis' from IP 192.168.2.136. on device '/dev/sda1'.
+ERROR - 2024-03-14 15:50:00 - system error: disk space critically low for user 'rlopez' from IP 192.168.2.109. on device '/dev/sda1'.
+ERROR - 2024-03-14 15:52:00 - database connection failed for user 'admin' from IP 192.168.2.115. 
+INFO - 2024-03-14 15:54:00 - User 'kgreen' new user created from IP 192.168.2.176.
+INFO - 2024-03-14 15:56:00 - User 'admin' accessed resource/secure/data from IP 192.168.2.120.
+INFO - 2024-03-14 15:58:00 - User 'msmith' accessed resource/secure/data from IP 192.168.1.164.
+WARNING - 2024-03-14 16:00:00 - User 'admin' password change attempt failed from IP 192.168.2.196.
+ERROR - 2024-03-14 16:02:00 - database connection failed for user 'msmith' from IP 192.168.1.198. 
+INFO - 2024-03-14 16:04:00 - User 'admin' password updated from IP 192.168.1.113.
+INFO - 2024-03-14 16:06:00 - User 'kgreen' user logged out from IP 192.168.1.176.
+WARNING - 2024-03-14 16:08:00 - User 'msmith' password change attempt failed from IP 192.168.1.185.
+ERROR - 2024-03-14 16:10:00 - system error: disk space critically low for user 'msmith' from IP 192.168.2.149. on device '/dev/sda1'.
+ERROR - 2024-03-14 16:12:00 - file not found for user 'admin' from IP 192.168.1.131. 
+ERROR - 2024-03-14 16:14:00 - application error for user 'tdavis' from IP 192.168.1.128. 
+ERROR - 2024-03-14 16:16:00 - file not found for user 'msmith' from IP 192.168.1.157. 
+WARNING - 2024-03-14 16:18:00 - User 'kgreen' attempted to access unauthorized resource from IP 192.168.2.181.
+ERROR - 2024-03-14 16:20:00 - database connection failed for user 'admin' from IP 192.168.1.195. 
+WARNING - 2024-03-14 16:22:00 - User 'jdoe' password change attempt failed from IP 192.168.2.183.
+INFO - 2024-03-14 16:24:00 - User 'admin' user logged out from IP 192.168.2.195.
+WARNING - 2024-03-14 16:26:00 - User 'tdavis' user account locked out from IP 192.168.1.187.
+ERROR - 2024-03-14 16:28:00 - system error: disk space critically low for user 'tdavis' from IP 192.168.1.114. on device '/dev/sda1'.
+WARNING - 2024-03-14 16:30:00 - User 'rlopez' detected suspicious activity from IP 192.168.2.107.
+ERROR - 2024-03-14 16:32:00 - failed login attempt for user 'kgreen' from IP 192.168.2.117. 
+INFO - 2024-03-14 16:34:00 - User 'rlopez' password updated from IP 192.168.1.188.
+WARNING - 2024-03-14 16:36:00 - User 'tdavis' detected suspicious activity from IP 192.168.1.140.
+WARNING - 2024-03-14 16:38:00 - User 'tdavis' attempted to access unauthorized resource from IP 192.168.1.100.
+WARNING - 2024-03-14 16:40:00 - User 'tdavis' detected suspicious activity from IP 192.168.1.105.
+WARNING - 2024-03-14 16:42:00 - User 'tdavis' detected suspicious activity from IP 192.168.2.102.
+WARNING - 2024-03-14 16:44:00 - User 'msmith' password change attempt failed from IP 192.168.2.118.
+INFO - 2024-03-14 16:46:00 - User 'kgreen' accessed resource/secure/data from IP 192.168.1.137.
+WARNING - 2024-03-14 16:48:00 - User 'msmith' attempted to access unauthorized resource from IP 192.168.2.162.
+WARNING - 2024-03-14 16:50:00 - User 'msmith' detected suspicious activity from IP 192.168.2.144.
+WARNING - 2024-03-14 16:52:00 - User 'msmith' detected suspicious activity from IP 192.168.2.167.
+INFO - 2024-03-14 16:54:00 - User 'rlopez' user logged in from IP 192.168.1.124.
+INFO - 2024-03-14 16:56:00 - User 'msmith' accessed resource/secure/data from IP 192.168.2.132.
+ERROR - 2024-03-14 16:58:00 - failed login attempt for user 'admin' from IP 192.168.1.162. 
+WARNING - 2024-03-14 17:00:00 - User 'rlopez' password change attempt failed from IP 192.168.1.136.
+INFO - 2024-03-14 17:02:00 - User 'jdoe' user logged in from IP 192.168.2.179.
+WARNING - 2024-03-14 17:04:00 - User 'rlopez' detected suspicious activity from IP 192.168.1.146.
+INFO - 2024-03-14 17:06:00 - User 'msmith' accessed resource/secure/data from IP 192.168.2.156.
+ERROR - 2024-03-14 17:08:00 - file not found for user 'kgreen' from IP 192.168.2.186. 
+INFO - 2024-03-14 17:10:00 - User 'msmith' new user created from IP 192.168.2.175.
+WARNING - 2024-03-14 17:12:00 - User 'rlopez' password change attempt failed from IP 192.168.2.134.
+WARNING - 2024-03-14 17:14:00 - User 'admin' user account locked out from IP 192.168.2.121.
+ERROR - 2024-03-14 17:16:00 - file not found for user 'msmith' from IP 192.168.2.106. 
+INFO - 2024-03-14 17:18:00 - User 'rlopez' accessed resource/secure/data from IP 192.168.2.158.
+INFO - 2024-03-14 17:20:00 - User 'kgreen' accessed resource/secure/data from IP 192.168.2.130.
+ERROR - 2024-03-14 17:22:00 - system error: disk space critically low for user 'rlopez' from IP 192.168.2.141. on device '/dev/sda1'.
+WARNING - 2024-03-14 17:24:00 - User 'rlopez' password change attempt failed from IP 192.168.2.101.
+INFO - 2024-03-14 17:26:00 - User 'tdavis' user logged in from IP 192.168.2.152.
+WARNING - 2024-03-14 17:28:00 - User 'kgreen' password change attempt failed from IP 192.168.2.168.
+INFO - 2024-03-14 17:30:00 - User 'kgreen' accessed resource/secure/data from IP 192.168.2.199.
+ERROR - 2024-03-14 17:32:00 - failed login attempt for user 'jdoe' from IP 192.168.1.193. 
+INFO - 2024-03-14 17:34:00 - User 'rlopez' accessed resource/secure/data from IP 192.168.1.107.
+WARNING - 2024-03-14 17:36:00 - User 'jdoe' detected suspicious activity from IP 192.168.2.185.
+WARNING - 2024-03-14 17:38:00 - User 'tdavis' detected suspicious activity from IP 192.168.2.121.
+WARNING - 2024-03-14 17:40:00 - User 'kgreen' detected suspicious activity from IP 192.168.2.190.
+WARNING - 2024-03-14 17:42:00 - User 'admin' user account locked out from IP 192.168.2.151.
+WARNING - 2024-03-14 17:44:00 - User 'kgreen' user account locked out from IP 192.168.1.193.
+WARNING - 2024-03-14 17:46:00 - User 'msmith' attempted to access unauthorized resource from IP 192.168.2.149.
+ERROR - 2024-03-14 17:48:00 - system error: disk space critically low for user 'admin' from IP 192.168.1.170. on device '/dev/sda1'.
+INFO - 2024-03-14 17:50:00 - User 'rlopez' backup completed successfully from IP 192.168.2.100.
+WARNING - 2024-03-14 17:52:00 - User 'kgreen' attempted to access unauthorized resource from IP 192.168.1.120.
+ERROR - 2024-03-14 17:54:00 - database connection failed for user 'jdoe' from IP 192.168.2.151. 
+ERROR - 2024-03-14 17:56:00 - file not found for user 'admin' from IP 192.168.2.128. 
+ERROR - 2024-03-14 17:58:00 - database connection failed for user 'kgreen' from IP 192.168.2.103. 
+INFO - 2024-03-14 18:00:00 - User 'rlopez' new user created from IP 192.168.1.160.
+INFO - 2024-03-14 18:02:00 - User 'msmith' user logged in from IP 192.168.2.183.
+WARNING - 2024-03-14 18:04:00 - User 'tdavis' detected suspicious activity from IP 192.168.1.100.
+INFO - 2024-03-14 18:06:00 - User 'msmith' user logged out from IP 192.168.2.132.
+INFO - 2024-03-14 18:08:00 - User 'rlopez' new user created from IP 192.168.2.140.
+WARNING - 2024-03-14 18:10:00 - User 'rlopez' attempted to access unauthorized resource from IP 192.168.2.128.
+WARNING - 2024-03-14 18:12:00 - User 'tdavis' password change attempt failed from IP 192.168.2.180.
+WARNING - 2024-03-14 18:14:00 - User 'admin' password change attempt failed from IP 192.168.1.151.
+INFO - 2024-03-14 18:16:00 - User 'rlopez' password updated from IP 192.168.1.125.
+INFO - 2024-03-14 18:18:00 - User 'jdoe' accessed resource/secure/data from IP 192.168.2.140.
+WARNING - 2024-03-14 18:20:00 - User 'rlopez' user account locked out from IP 192.168.1.188.
+WARNING - 2024-03-14 18:22:00 - User 'kgreen' password change attempt failed from IP 192.168.2.147.
+INFO - 2024-03-14 18:24:00 - User 'msmith' password updated from IP 192.168.1.129.
+ERROR - 2024-03-14 18:26:00 - failed login attempt for user 'admin' from IP 192.168.2.169. 
+INFO - 2024-03-14 18:28:00 - User 'kgreen' user logged out from IP 192.168.1.168.
+ERROR - 2024-03-14 18:30:00 - database connection failed for user 'msmith' from IP 192.168.2.199. 
+WARNING - 2024-03-14 18:32:00 - User 'msmith' password change attempt failed from IP 192.168.2.125.
+ERROR - 2024-03-14 18:34:00 - failed login attempt for user 'jdoe' from IP 192.168.1.152. 
+INFO - 2024-03-14 18:36:00 - User 'jdoe' user logged in from IP 192.168.2.182.
+INFO - 2024-03-14 18:38:00 - User 'admin' password updated from IP 192.168.2.154.
+WARNING - 2024-03-14 18:40:00 - User 'rlopez' attempted to access unauthorized resource from IP 192.168.1.140.
+INFO - 2024-03-14 18:42:00 - User 'kgreen' accessed resource/secure/data from IP 192.168.2.144.
+WARNING - 2024-03-14 18:44:00 - User 'rlopez' user account locked out from IP 192.168.1.167.
+INFO - 2024-03-14 18:46:00 - User 'admin' new user created from IP 192.168.2.199.
+ERROR - 2024-03-14 18:48:00 - application error for user 'msmith' from IP 192.168.2.131. 
+INFO - 2024-03-14 18:50:00 - User 'rlopez' backup completed successfully from IP 192.168.2.153.
+WARNING - 2024-03-14 18:52:00 - User 'tdavis' user account locked out from IP 192.168.2.187.
+ERROR - 2024-03-14 18:54:00 - database connection failed for user 'tdavis' from IP 192.168.2.121. 
+WARNING - 2024-03-14 18:56:00 - User 'jdoe' password change attempt failed from IP 192.168.2.156.
+INFO - 2024-03-14 18:58:00 - User 'tdavis' accessed resource/secure/data from IP 192.168.1.151.
+ERROR - 2024-03-14 19:00:00 - failed login attempt for user 'kgreen' from IP 192.168.1.181. 
+WARNING - 2024-03-14 19:02:00 - User 'tdavis' user account locked out from IP 192.168.1.152.
+INFO - 2024-03-14 19:04:00 - User 'tdavis' accessed resource/secure/data from IP 192.168.2.138.
+INFO - 2024-03-14 19:06:00 - User 'kgreen' password updated from IP 192.168.2.150.
+WARNING - 2024-03-14 19:08:00 - User 'rlopez' detected suspicious activity from IP 192.168.1.101.
+INFO - 2024-03-14 19:10:00 - User 'jdoe' new user created from IP 192.168.2.174.
+ERROR - 2024-03-14 19:12:00 - system error: disk space critically low for user 'jdoe' from IP 192.168.1.103. on device '/dev/sda1'.
+INFO - 2024-03-14 19:14:00 - User 'jdoe' backup completed successfully from IP 192.168.1.194.
+ERROR - 2024-03-14 19:16:00 - system error: disk space critically low for user 'msmith' from IP 192.168.1.144. on device '/dev/sda1'.
+WARNING - 2024-03-14 19:18:00 - User 'jdoe' attempted to access unauthorized resource from IP 192.168.1.192.
+INFO - 2024-03-14 19:20:00 - User 'jdoe' user logged out from IP 192.168.1.121.
+ERROR - 2024-03-14 19:22:00 - database connection failed for user 'admin' from IP 192.168.2.162. 
+ERROR - 2024-03-14 19:24:00 - file not found for user 'rlopez' from IP 192.168.2.107. 
+ERROR - 2024-03-14 19:26:00 - file not found for user 'tdavis' from IP 192.168.1.119. 
+INFO - 2024-03-14 19:28:00 - User 'tdavis' password updated from IP 192.168.1.113.
+WARNING - 2024-03-14 19:30:00 - User 'msmith' attempted to access unauthorized resource from IP 192.168.1.152.
+ERROR - 2024-03-14 19:32:00 - file not found for user 'kgreen' from IP 192.168.1.185. 
+ERROR - 2024-03-14 19:34:00 - file not found for user 'admin' from IP 192.168.2.107. 
+ERROR - 2024-03-14 19:36:00 - system error: disk space critically low for user 'rlopez' from IP 192.168.2.177. on device '/dev/sda1'.
+INFO - 2024-03-14 19:38:00 - User 'admin' accessed resource/secure/data from IP 192.168.2.182.
+INFO - 2024-03-14 19:40:00 - User 'tdavis' user logged out from IP 192.168.2.158.
+WARNING - 2024-03-14 19:42:00 - User 'jdoe' attempted to access unauthorized resource from IP 192.168.2.121.
+ERROR - 2024-03-14 19:44:00 - failed login attempt for user 'msmith' from IP 192.168.2.117. 
+WARNING - 2024-03-14 19:46:00 - User 'jdoe' detected suspicious activity from IP 192.168.1.195.
+INFO - 2024-03-14 19:48:00 - User 'msmith' accessed resource/secure/data from IP 192.168.1.151.
+ERROR - 2024-03-14 19:50:00 - database connection failed for user 'msmith' from IP 192.168.1.185. 
+ERROR - 2024-03-14 19:52:00 - database connection failed for user 'tdavis' from IP 192.168.2.173. 
+INFO - 2024-03-14 19:54:00 - User 'jdoe' user logged out from IP 192.168.2.193.
+WARNING - 2024-03-14 19:56:00 - User 'rlopez' detected suspicious activity from IP 192.168.2.128.
+INFO - 2024-03-14 19:58:00 - User 'jdoe' accessed resource/secure/data from IP 192.168.2.189.
+INFO - 2024-03-14 20:00:00 - User 'admin' password updated from IP 192.168.1.133.
+WARNING - 2024-03-14 20:02:00 - User 'kgreen' detected suspicious activity from IP 192.168.2.170.
+WARNING - 2024-03-14 20:04:00 - User 'kgreen' user account locked out from IP 192.168.1.139.
+WARNING - 2024-03-14 20:06:00 - User 'jdoe' password change attempt failed from IP 192.168.2.158.
+INFO - 2024-03-14 20:08:00 - User 'rlopez' new user created from IP 192.168.2.158.
+INFO - 2024-03-14 20:10:00 - User 'kgreen' user logged out from IP 192.168.2.178.
+ERROR - 2024-03-14 20:12:00 - file not found for user 'admin' from IP 192.168.2.179. 
+WARNING - 2024-03-14 20:14:00 - User 'rlopez' password change attempt failed from IP 192.168.2.173.
+INFO - 2024-03-14 20:16:00 - User 'admin' password updated from IP 192.168.2.133.
+ERROR - 2024-03-14 20:18:00 - application error for user 'jdoe' from IP 192.168.1.134. 
+WARNING - 2024-03-14 20:20:00 - User 'kgreen' user account locked out from IP 192.168.2.153.
+INFO - 2024-03-14 20:22:00 - User 'rlopez' accessed resource/secure/data from IP 192.168.2.169.
+ERROR - 2024-03-14 20:24:00 - database connection failed for user 'kgreen' from IP 192.168.2.196. 
+INFO - 2024-03-14 20:26:00 - User 'kgreen' user logged in from IP 192.168.2.152.
+ERROR - 2024-03-14 20:28:00 - system error: disk space critically low for user 'msmith' from IP 192.168.1.177. on device '/dev/sda1'.
+WARNING - 2024-03-14 20:30:00 - User 'kgreen' user account locked out from IP 192.168.2.113.
+INFO - 2024-03-14 20:32:00 - User 'tdavis' accessed resource/secure/data from IP 192.168.1.132.
+WARNING - 2024-03-14 20:34:00 - User 'jdoe' detected suspicious activity from IP 192.168.2.173.
+WARNING - 2024-03-14 20:36:00 - User 'kgreen' detected suspicious activity from IP 192.168.2.189.
+INFO - 2024-03-14 20:38:00 - User 'admin' user logged in from IP 192.168.1.178.
+ERROR - 2024-03-14 20:40:00 - database connection failed for user 'admin' from IP 192.168.2.152. 
+WARNING - 2024-03-14 20:42:00 - User 'jdoe' attempted to access unauthorized resource from IP 192.168.1.143.
+WARNING - 2024-03-14 20:44:00 - User 'admin' password change attempt failed from IP 192.168.2.145.
+INFO - 2024-03-14 20:46:00 - User 'admin' backup completed successfully from IP 192.168.2.173.
+WARNING - 2024-03-14 20:48:00 - User 'tdavis' user account locked out from IP 192.168.1.135.
+ERROR - 2024-03-14 20:50:00 - system error: disk space critically low for user 'msmith' from IP 192.168.2.136. on device '/dev/sda1'.
+WARNING - 2024-03-14 20:52:00 - User 'rlopez' detected suspicious activity from IP 192.168.2.138.
+WARNING - 2024-03-14 20:54:00 - User 'kgreen' detected suspicious activity from IP 192.168.1.152.
+ERROR - 2024-03-14 20:56:00 - system error: disk space critically low for user 'tdavis' from IP 192.168.2.134. on device '/dev/sda1'.
+ERROR - 2024-03-14 20:58:00 - application error for user 'jdoe' from IP 192.168.2.167. 
+INFO - 2024-03-14 21:00:00 - User 'msmith' backup completed successfully from IP 192.168.2.172.
+ERROR - 2024-03-14 21:02:00 - failed login attempt for user 'jdoe' from IP 192.168.1.113. 
+ERROR - 2024-03-14 21:04:00 - file not found for user 'kgreen' from IP 192.168.2.125. 
+ERROR - 2024-03-14 21:06:00 - database connection failed for user 'jdoe' from IP 192.168.2.148. 
+ERROR - 2024-03-14 21:08:00 - application error for user 'msmith' from IP 192.168.1.170. 
+ERROR - 2024-03-14 21:10:00 - database connection failed for user 'kgreen' from IP 192.168.1.170. 
+ERROR - 2024-03-14 21:12:00 - failed login attempt for user 'rlopez' from IP 192.168.1.143. 
+INFO - 2024-03-14 21:14:00 - User 'kgreen' user logged out from IP 192.168.2.102.
+WARNING - 2024-03-14 21:16:00 - User 'kgreen' detected suspicious activity from IP 192.168.2.128.
+WARNING - 2024-03-14 21:18:00 - User 'kgreen' attempted to access unauthorized resource from IP 192.168.1.157.
+ERROR - 2024-03-14 21:20:00 - database connection failed for user 'msmith' from IP 192.168.1.195. 
+INFO - 2024-03-14 21:22:00 - User 'tdavis' user logged out from IP 192.168.1.110.
+ERROR - 2024-03-14 21:24:00 - database connection failed for user 'rlopez' from IP 192.168.2.115. 
+ERROR - 2024-03-14 21:26:00 - database connection failed for user 'tdavis' from IP 192.168.2.161. 
+WARNING - 2024-03-14 21:28:00 - User 'msmith' user account locked out from IP 192.168.1.176.
+ERROR - 2024-03-14 21:30:00 - failed login attempt for user 'tdavis' from IP 192.168.1.196. 
+ERROR - 2024-03-14 21:32:00 - failed login attempt for user 'jdoe' from IP 192.168.1.117. 
+ERROR - 2024-03-14 21:34:00 - failed login attempt for user 'tdavis' from IP 192.168.1.181. 
+INFO - 2024-03-14 21:36:00 - User 'tdavis' new user created from IP 192.168.2.194.
+ERROR - 2024-03-14 21:38:00 - database connection failed for user 'msmith' from IP 192.168.2.165. 
+INFO - 2024-03-14 21:40:00 - User 'kgreen' user logged in from IP 192.168.1.176.
+INFO - 2024-03-14 21:42:00 - User 'jdoe' user logged in from IP 192.168.2.187.
+WARNING - 2024-03-14 21:44:00 - User 'kgreen' attempted to access unauthorized resource from IP 192.168.2.122.
+INFO - 2024-03-14 21:46:00 - User 'rlopez' password updated from IP 192.168.2.199.
+INFO - 2024-03-14 21:48:00 - User 'jdoe' user logged out from IP 192.168.2.163.
+ERROR - 2024-03-14 21:50:00 - application error for user 'kgreen' from IP 192.168.2.182. 
+WARNING - 2024-03-14 21:52:00 - User 'kgreen' user account locked out from IP 192.168.1.198.
+WARNING - 2024-03-14 21:54:00 - User 'jdoe' password change attempt failed from IP 192.168.2.160.
+ERROR - 2024-03-14 21:56:00 - file not found for user 'tdavis' from IP 192.168.2.176. 
+WARNING - 2024-03-14 21:58:00 - User 'admin' password change attempt failed from IP 192.168.2.121.
+ERROR - 2024-03-14 22:00:00 - system error: disk space critically low for user 'jdoe' from IP 192.168.1.108. on device '/dev/sda1'.
+WARNING - 2024-03-14 22:02:00 - User 'admin' attempted to access unauthorized resource from IP 192.168.1.137.
+INFO - 2024-03-14 22:04:00 - User 'jdoe' user logged in from IP 192.168.1.128.
+ERROR - 2024-03-14 22:06:00 - system error: disk space critically low for user 'jdoe' from IP 192.168.1.128. on device '/dev/sda1'.
+INFO - 2024-03-14 22:08:00 - User 'msmith' accessed resource/secure/data from IP 192.168.2.129.
+INFO - 2024-03-14 22:10:00 - User 'kgreen' password updated from IP 192.168.2.105.
+WARNING - 2024-03-14 22:12:00 - User 'msmith' detected suspicious activity from IP 192.168.2.107.
+ERROR - 2024-03-14 22:14:00 - file not found for user 'msmith' from IP 192.168.2.195. 
+INFO - 2024-03-14 22:16:00 - User 'tdavis' backup completed successfully from IP 192.168.2.180.
+INFO - 2024-03-14 22:18:00 - User 'tdavis' backup completed successfully from IP 192.168.1.160.
+INFO - 2024-03-14 22:20:00 - User 'tdavis' user logged out from IP 192.168.1.177.
+INFO - 2024-03-14 22:22:00 - User 'msmith' accessed resource/secure/data from IP 192.168.1.124.
+WARNING - 2024-03-14 22:24:00 - User 'kgreen' user account locked out from IP 192.168.2.190.
+INFO - 2024-03-14 22:26:00 - User 'rlopez' accessed resource/secure/data from IP 192.168.1.171.
+ERROR - 2024-03-14 22:28:00 - application error for user 'kgreen' from IP 192.168.2.108. 
+INFO - 2024-03-14 22:30:00 - User 'msmith' accessed resource/secure/data from IP 192.168.2.155.
+ERROR - 2024-03-14 22:32:00 - application error for user 'rlopez' from IP 192.168.1.197. 
+INFO - 2024-03-14 22:34:00 - User 'jdoe' user logged out from IP 192.168.1.116.
+WARNING - 2024-03-14 22:36:00 - User 'jdoe' password change attempt failed from IP 192.168.1.147.
+INFO - 2024-03-14 22:38:00 - User 'tdavis' backup completed successfully from IP 192.168.2.124.
+ERROR - 2024-03-14 22:40:00 - database connection failed for user 'kgreen' from IP 192.168.1.116. 
+INFO - 2024-03-14 22:42:00 - User 'msmith' user logged out from IP 192.168.2.118.
+WARNING - 2024-03-14 22:44:00 - User 'msmith' password change attempt failed from IP 192.168.1.178.
+WARNING - 2024-03-14 22:46:00 - User 'rlopez' detected suspicious activity from IP 192.168.1.112.
+ERROR - 2024-03-14 22:48:00 - failed login attempt for user 'rlopez' from IP 192.168.1.172. 
+WARNING - 2024-03-14 22:50:00 - User 'kgreen' password change attempt failed from IP 192.168.2.153.
+INFO - 2024-03-14 22:52:00 - User 'msmith' backup completed successfully from IP 192.168.1.190.
+ERROR - 2024-03-14 22:54:00 - database connection failed for user 'kgreen' from IP 192.168.1.102. 
+WARNING - 2024-03-14 22:56:00 - User 'tdavis' user account locked out from IP 192.168.1.119.
+ERROR - 2024-03-14 22:58:00 - system error: disk space critically low for user 'msmith' from IP 192.168.1.193. on device '/dev/sda1'.
+INFO - 2024-03-14 23:00:00 - User 'rlopez' new user created from IP 192.168.1.110.
+INFO - 2024-03-14 23:02:00 - User 'admin' backup completed successfully from IP 192.168.2.129.
+INFO - 2024-03-14 23:04:00 - User 'admin' backup completed successfully from IP 192.168.2.181.
+WARNING - 2024-03-14 23:06:00 - User 'tdavis' detected suspicious activity from IP 192.168.2.151.
+ERROR - 2024-03-14 23:08:00 - file not found for user 'admin' from IP 192.168.2.158. 
+INFO - 2024-03-14 23:10:00 - User 'tdavis' accessed resource/secure/data from IP 192.168.2.187.
+INFO - 2024-03-14 23:12:00 - User 'admin' backup completed successfully from IP 192.168.1.147.
+ERROR - 2024-03-14 23:14:00 - application error for user 'jdoe' from IP 192.168.2.154. 
+WARNING - 2024-03-14 23:16:00 - User 'jdoe' password change attempt failed from IP 192.168.1.198.
+WARNING - 2024-03-14 23:18:00 - User 'msmith' password change attempt failed from IP 192.168.1.159.
+ERROR - 2024-03-14 23:20:00 - application error for user 'msmith' from IP 192.168.2.115. 
+WARNING - 2024-03-14 23:22:00 - User 'msmith' detected suspicious activity from IP 192.168.2.180.
+WARNING - 2024-03-14 23:24:00 - User 'msmith' detected suspicious activity from IP 192.168.1.114.
+ERROR - 2024-03-14 23:26:00 - failed login attempt for user 'rlopez' from IP 192.168.1.190. 
+WARNING - 2024-03-14 23:28:00 - User 'msmith' password change attempt failed from IP 192.168.2.197.
+ERROR - 2024-03-14 23:30:00 - application error for user 'tdavis' from IP 192.168.2.131. 
+INFO - 2024-03-14 23:32:00 - User 'tdavis' user logged out from IP 192.168.1.197.
+INFO - 2024-03-14 23:34:00 - User 'msmith' password updated from IP 192.168.2.110.
+INFO - 2024-03-14 23:36:00 - User 'msmith' accessed resource/secure/data from IP 192.168.2.108.
+WARNING - 2024-03-14 23:38:00 - User 'tdavis' attempted to access unauthorized resource from IP 192.168.2.176.

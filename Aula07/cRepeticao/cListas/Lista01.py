@@ -5,6 +5,5 @@ No final, exiba a nova lista.
 """
 
 lista = [5, 10, 15, 20, 25]
-listas = [lista[0], lista[4]]
-print(f"Lista com o primeiro e último elemento: {listas}")
+
 

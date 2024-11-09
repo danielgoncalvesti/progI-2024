@@ -9,5 +9,3 @@ Saída:
 A nota é: 5.00
 """
 pontuacao = float(input("Digite a pontuação: "))
-nota = (pontuacao/60)*10
-print(f"A nota é: {nota:.2f}")

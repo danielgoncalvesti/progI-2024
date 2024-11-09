@@ -9,5 +9,4 @@ Exemplo de Saída:
 25°C é equivalente a 77.0°F
 """
 temperatura = int(input("Digite uma temperatura em Celsius para conversão para Fahrenheit: "))
-fahrenheit = float(temperatura * (9/5) + 32)
-print(f"{temperatura}°C é equivalente a {fahrenheit}°F")
+

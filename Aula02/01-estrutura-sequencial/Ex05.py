@@ -9,4 +9,4 @@ Exemplo de saída:
 A palavra em maiúsculas é: PYTHON
 """
 palavra = input("Digite uma palavra: ")
-print(palavra.upper())
+

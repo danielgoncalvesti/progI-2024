@@ -5,8 +5,7 @@ Implemente a função imprime_tabuada que recebe um número inteiro
 e imprime a tabuada desse número.
 """
 def imprime_tabuada(numero: int):
-    for i in range(1, 11):
-        print(f"{numero}*{i} = {numero*i}")
+    pass
 
 def main():
     n = int(input("Digite um número para ver sua tabuada: "))
