@@ -2,5 +2,10 @@
 
 letras = ['P', 'y', 't', 'h', 'o', 'n', ' ', 'é', ' ', 'm', 'u', 'i', 't', 'o', ' ', 'l', 'e', 'g', 'a', 'l']
 
-string = "".join(letras)
-print(string)
+frase = ""
+
+for c in letras:
+    frase = frase + c
+
+print(frase)
+
