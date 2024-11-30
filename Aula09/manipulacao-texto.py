@@ -5,43 +5,38 @@ mas elas também podem representar qualquer sequência de caracteres, incluindo 
 Manipular strings é uma habilidade essencial para qualquer programador.
 """
 
-lista = texto.replace(',','').replace('.', '').replace('\n', '').split(" ")
-contador = 0
-tamanho_palavra = ""
-lista_invertida = []
-texto_caracter_invertido = ""
-ultimo_element = len(texto) -1
-indice = len(lista) -1
-print(lista)
-
-for palavra in lista:
-    palavra_mais_longa = ""
-    contador += 1
-
-    if len(palavra) > len(palavra_mais_longa):
-        palavra_mais_longa = palavra
-
-while (indice >= 0):
-    lista_invertida.append(lista[indice])
-    indice = indice -1
-for posicao in range(ultimo_element, -1, -1):
-    texto_caracter_invertido = texto_caracter_invertido + texto[posicao]
-
+texto_em_lista = texto.replace(",","").replace(".","").replace("\n","").split(" ")
 
 # Ex 1. Calcule e imprima o número de palavras no texto.
+contador = 0
+for palavra in texto_em_lista:
+    contador +=1
+
 print(f"Ex 1: Número de Palavras: {contador}")
+###############################################################################################
 
 # Ex 2. Encontre e imprima a palavra mais longa no texto.
-print(f"Ex 2: Palavra Mais Longa: {palavra_mais_longa}")
 
+palavra_longa = ""
+for palavra in texto_em_lista:
+    if len(palavra) >= len(palavra_longa):
+        palavra_longa = palavra
+
+print(f"Ex 2: Palavra Mais Longa: {palavra_longa}")
+
+###############################################################################################
 # Ex 3. Inverta a ordem das palavras no texto e imprima o resultado.
-# Exemplo: "Olá, mundo!" -> "mundo! Olá,"
-print(f"Ex 3: Invertendo a Ordem das Palavras: {lista_invertida}")
+# Exemplo: "Olá, mundo!" -> "mundo! Olá,"\
+texto_invertido = ""
+for palavra in range(len(texto_em_lista) - 1, -1, -1):
+     texto_invertido += texto_em_lista[palavra] + " "
 
+print(texto_invertido)
+print(f"Ex 3: Invertendo a Ordem das Palavras:")
 
 # Ex 4. Inverta a ordem dos caracteres no texto e imprima o resultado.
 # Exemplo: "Olá, mundo!" -> "!odnum ,álO"
-print(f"Ex 4: Invertendo a Ordem dos Caracteres: {texto_caracter_invertido}")
+print(f"Ex 4: Invertendo a Ordem dos Caracteres:")
 
 
 # Ex 5. Use um laço 02-for para listar todas as palavras no texto que começam com uma letra maiúscula.

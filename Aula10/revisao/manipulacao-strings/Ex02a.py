@@ -16,3 +16,12 @@ emails = [
     "pedro.lima@microsoft.com", "fernanda.costa@apple.com", "lucas.pereira@amazon.com",
     "carla.mendes@spotify.com", "julio.souza@apple.com", "daniela.rocha@microsoft.com"
 ]
+
+emails_nao_repetidos = []
+
+for email in emails:
+    dominio = email.split("@")[1]
+    if dominio not in emails_nao_repetidos:
+        emails_nao_repetidos.append(dominio)
+
+print(emails_nao_repetidos)
